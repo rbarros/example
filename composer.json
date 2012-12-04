@@ -1,0 +1,13 @@
+{
+    "name": "rbarros/example",
+    "description": "Test composer",
+    "authors": [
+        {
+            "name": "Ramon Barros",
+            "email": "rbarros_@hotmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
